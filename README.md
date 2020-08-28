@@ -1,4 +1,5 @@
 # Checking Your Python (Anaconda) Installation
+hi there
 
 ## Summary of steps to complete (See corresponding sections below.)
 
