@@ -1,5 +1,5 @@
 # Checking Your Python (Anaconda) Installation
-hi there
+Hi there. These are some changes I made
 
 ## Summary of steps to complete (See corresponding sections below.)
 
@@ -41,10 +41,10 @@ hi there
 * [ ] Check your python version by running the code `python --version`
 * [ ] Enter the result in the table below.
 
-|   Command   |         Result          |
-|     ---     |           ---           |
-|`python --version` in Anaconda Prompt         |(enter result here)|
-|`python --version` in regular Command Prompt  |(enter result here)|
+|   Command   |            Result          |
+|     ---    |       ---        |
+|`python --version` in Anaconda Prompt         |(3.8.3)|
+|`python --version` in regular Command Prompt  |(3.7.9)|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
